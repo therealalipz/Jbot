@@ -1,8 +1,8 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '6285221100126'
+global.owner = '601128654242'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'LipxGaming'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -26,9 +26,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© neoxr-bot v${global.version} (Public Bot)`
+global.botname = `© ʟ֟፝ ɴɪ ʙøss⛩️-bot v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ʟ֟፝ ɴɪ ʙøss⛩️ ッ'
 // Scraper
 global.scrap = Scraper
 // Function
