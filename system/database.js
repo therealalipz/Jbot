@@ -98,8 +98,8 @@ module.exports = (m) => {
       if (!('error' in setting)) setting.error = []
       if (!('pluginDisable' in setting)) setting.pluginDisable = []
       if (!('groupmode' in setting)) setting.groupmode = false
-      if (!('sk_pack' in setting)) setting.sk_pack = 'Sticker'
-      if (!('sk_author' in setting)) setting.sk_author = '@neoxrs'
+      if (!('sk_pack' in setting)) setting.sk_pack = 'ʟ֟፝ ɴɪ ʙøss⛩️'
+      if (!('sk_author' in setting)) setting.sk_author = '@Lipxgaming'
       if (!('self' in setting)) setting.self = false
       if (!('mimic' in setting)) setting.mimic = []
       if (!('noprefix' in setting)) setting.noprefix = false
@@ -110,8 +110,8 @@ module.exports = (m) => {
       if (!('onlyprefix' in setting)) setting.onlyprefix = '+'
       if (!('owners' in setting)) setting.owners = ['994408364923']
       if (!isNumber(setting.lastReset)) setting.lastReset = new Date * 1
-      if (!('msg' in setting)) setting.msg = 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.'
-      if (!isNumber(setting.menuStyle)) setting.menuStyle = 4
+      if (!('msg' in setting)) setting.msg = 'Hai +tag 🪸\nAku J Bot (WhatsApp Bot) Akan Membuat Anda Menyesal, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.',
+         menuStyle: 4,
       if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/21aff6a6837f46ea45083.jpg'
       if (!('link' in setting)) setting.link = 'https://chat.whatsapp.com/Dqb7Z2G5mqnIPSc6xbVWuH'
    } else {
@@ -122,8 +122,8 @@ module.exports = (m) => {
          error: [],
          pluginDisable: [],
          groupmode: false,
-         sk_pack: 'Sticker',
-         sk_author: '@neoxrs',
+         sk_pack: 'ʟ֟፝ ɴɪ ʙøss⛩️',
+         sk_author: '@Lipxgaming',
          self: false,
          mimic: [],
          noprefix: false,
@@ -134,7 +134,7 @@ module.exports = (m) => {
          onlyprefix: '+',
          owners: ['994408364923'],
          lastReset: new Date * 1,
-         msg: 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.',
+         msg: 'Hai +tag 🪸\nAku J Bot (WhatsApp Bot) Akan Membuat Anda Menyesal, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.',
          menuStyle: 4,
          cover: 'https://telegra.ph/file/21aff6a6837f46ea45083.jpg',
          link: 'https://chat.whatsapp.com/Dqb7Z2G5mqnIPSc6xbVWuH'
