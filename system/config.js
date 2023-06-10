@@ -7,8 +7,8 @@ global.owner_name = 'LipxGaming'
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
 global.max_upload = 100
-// Delay for spamming protection (Default : 3 seconds)
-global.cooldown = 3
+// Delay for spamming protection (Default : 2 seconds)
+global.cooldown = 2
 // User Limitation (Default : 25)
 global.limit = 25
 // Time to be temporarily banned and others (Default : 30 minutes)
